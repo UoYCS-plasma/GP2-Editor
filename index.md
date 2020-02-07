@@ -1,6 +1,6 @@
 # Introduction
 
-Grape is a visual editor for the [GP 2 programming language](https://timothyatkinson.github.io/). It provides both a [host graph editor](https://sdhand.github.io/grape/graph), and a [rule editor](https://sdhand.github.io/grape/rule).
+Grape is a visual editor for the [GP 2 programming language](https://uoycs-plasma.github.io/GP2/). It provides both a [host graph editor](graph), and a [rule editor](rule).
 
 ## Usage
 
